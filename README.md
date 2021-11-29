@@ -7,7 +7,7 @@ Firstly, understanding the operating rule of the dam was a bit challenging. Afte
 
 Flows based on different climate change scenarios have been generated in the 'Inflows final'. Then, using the module based on operating policy, different stroage, outflows and hydropower output values were obtained.
 
-In project, those values were compared and analysed using various plots and statistical parameters using pandas and matplotlib.pyplot libraries.
+In project, those values were compared and analysed by various plots and statistical parameters using pandas and matplotlib.pyplot libraries.
 
 
 Bibliography:
