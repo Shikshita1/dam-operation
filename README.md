@@ -5,6 +5,10 @@ There are basically seven different scenarios for the dam operation. These seven
 
 Firstly, understanding the operating rule of the dam was a bit challenging. After understanding, we had to implement the rule using various if-else statements. Operating rule was adapted from P. Qin et al.(2020). 
 
+Flows based on different climate change scenarios have been generated in the 'Inflows final'. Then, using the module based on operating policy, different stroage, outflows and hydropower output values were obtained.
+
+In project, those values were compared and analysed using various plots and statistical parameters using pandas and matplotlib.pyplot libraries.
+
 
 Bibliography:
 Qin, P., Xu, H., Liu, M., Du, L., Xiao, C., Liu, L., & Tarroja, B. (2020). Climate change impacts on Three Gorges Reservoir impoundment and hydropower generation. Journal of Hydrology, 580, 123922.
