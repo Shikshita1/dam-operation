@@ -9,6 +9,10 @@ Flows based on different climate change scenarios have been generated in the 'In
 
 In project, the outputs from the code were compared and analysed with the help of various plots and statistical parameters using pandas and matplotlib.pyplot libraries.
 
+Although the major part of code was written by Shikshita Bhandari, there is equal contribution from Atharva Ekatpure, Nidhi Baid and Alban Broze. All of us had rigorously discussed about the conceptual framework of the model and its presentation.
+
+This project was completed within a month along with other graduate courseworks. So, simplifications were made to address this time constraint.
+
 
 Bibliography:
 Qin, P., Xu, H., Liu, M., Du, L., Xiao, C., Liu, L., & Tarroja, B. (2020). Climate change impacts on Three Gorges Reservoir impoundment and hydropower generation. Journal of Hydrology, 580, 123922.
