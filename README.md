@@ -16,3 +16,6 @@ This project was completed within a month along with other graduate courseworks.
 
 Bibliography:
 Qin, P., Xu, H., Liu, M., Du, L., Xiao, C., Liu, L., & Tarroja, B. (2020). Climate change impacts on Three Gorges Reservoir impoundment and hydropower generation. Journal of Hydrology, 580, 123922.
+
+Link for project report:
+https://drive.google.com/file/d/1Ic9vPYtWJNR3UrBDYgu9eee8LUqbUvYP/view?usp=sharing
